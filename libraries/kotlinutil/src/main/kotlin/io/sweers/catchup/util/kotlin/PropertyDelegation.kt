@@ -44,7 +44,7 @@ inline fun <T, R> instanceProperty(instance: R, property: KProperty1<T, R>) = ob
   override val instance: R = instance
 }
 
-// TODO binding to an instant property
+// TODO binding to an instance property
 // /**
 // * An extension to delegate a read-only property of type [T] to another property.
 // *
