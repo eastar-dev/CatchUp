@@ -46,8 +46,8 @@ import coil.transform.Transformation
 import io.sweers.catchup.R
 import io.sweers.catchup.databinding.ActivityImageViewerBinding
 import io.sweers.catchup.ui.immersive.SystemUiHelper
+import io.sweers.catchup.util.setContentView
 import io.sweers.catchup.util.toggleVisibility
-import kotterknife.setContentView
 import me.saket.flick.ContentSizeProvider
 import me.saket.flick.FlickCallbacks
 import me.saket.flick.FlickDismissLayout
